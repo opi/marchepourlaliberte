@@ -6,6 +6,7 @@ body > section {font-size: 1.3em;max-width: 50em;margin: 1em auto;}
 
 .sharing {text-align: center;}
 .sharing a {margin: 0 0.5em;}
+.sharing a:hover {text-decoration: none;}
 @media screen and (max-width: 480px) {
     .sharing img {max-width: 48px;}
 }
