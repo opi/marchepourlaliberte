@@ -1,0 +1,22 @@
+
+header {text-align: center;}
+h1 small {display: block;margin: 0.5em 0;}
+
+body > section {font-size: 1.3em;max-width: 50em;margin: 1em auto;}
+
+.sharing {text-align: center;}
+.sharing a {margin: 0 0.5em;}
+@media screen and (max-width: 480px) {
+    .sharing img {max-width: 48px;}
+}
+
+.manifesto {padding: 2em;margin: 2em auto;background-color: #eee;}
+
+.quotes p {display: inline-block;vertical-align: top;width: 45%;margin: 2em 2%;}
+@media screen and (max-width: 640px) {
+    .quotes p {width: 100%;margin: 1em 0;}
+    .quotes p:first-child {border-bottom: 2px solid #eee;padding-bottom: 2em;}
+}
+.quotes .author {display: block;text-align: right;}
+
+footer {border-top: 2px solid #eee;margin: 4em auto;padding: 2em;}
