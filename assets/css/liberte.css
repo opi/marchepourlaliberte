@@ -20,4 +20,4 @@ body > section {font-size: 1.3em;max-width: 50em;margin: 1em auto;}
 }
 .quotes .author {display: block;text-align: right;}
 
-footer {border-top: 2px solid #eee;margin: 4em auto;padding: 2em;}
+footer {border-top: 2px solid #eee;margin: 4em auto;padding: 2em;text-align: center;}
